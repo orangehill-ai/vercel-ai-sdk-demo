@@ -1,6 +1,6 @@
 This is [Next.js](https://nextjs.org) project demonstrates the use of Vercel AI SDK. The code was generated for the live streaming session on 23.10.2024. titled "How to Build AI-Ready UI with Vercel AI SDK | React Streaming Components Demo".
 
-[![Watch the video](https://img.youtube.com/vi/nLWYmyICwV8/0.jpg)](https://youtube.com/live/nLWYmyICwV8)
+[![Watch the video](https://img.youtube.com/vi/nLWYmyIC/0.jpg)](https://youtube.com/live/nLWYmyICwV8)
 
 ## Getting Started
 
